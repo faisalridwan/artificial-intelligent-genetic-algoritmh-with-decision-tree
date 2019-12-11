@@ -1,0 +1,17 @@
+Suhu,Waktu,Kondisi Langit,Kelembapan,Terbang/Tidak
+Normal,Malam,Berawan,Tinggi,Tidak
+Normal,Siang,Berawan,Normal,Tidak
+Normal,Siang,Cerah,Normal,Tidak
+Normal,Pagi,Hujan,Normal,Tidak
+Normal,Sore,Rintik,Rendah,Ya
+Normal,Malam,Berawan,Tinggi,Tidak
+Normal,Siang,Berawan,Normal,Tidak
+Rendah,Sore,Cerah,Normal,Tidak
+Tinggi,Pagi,Hujan,Normal,Tidak
+Normal,Malam,Rintik,Rendah,Ya
+Normal,Malam,Berawan,Tinggi,Tidak
+Normal,Malam,Berawan,Tinggi,Tidak
+Normal,Malam,Berawan,Tinggi,Tidak
+Normal,Malam,Berawan,Tinggi,Tidak
+Normal,Malam,Rintik,Rendah,Ya
+Normal,Malam,Rintik,Rendah,Ya
